@@ -2,7 +2,7 @@
 
 name: marketingwriter
 metadata:
-    template: azd-init@1.10.3
+    template: marketingwriter@1.10.3
 services:
     src:
         project: src
